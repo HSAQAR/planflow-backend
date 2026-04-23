@@ -1,0 +1,6 @@
+{
+  "name": "planflow-backend",
+  "version": "1.0.0",
+  "description": "Planflow AI backend — proxies Groq API",
+  "main": "api/plan.js"
+}
